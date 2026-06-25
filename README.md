@@ -1,4 +1,4 @@
-# Currency-converter-
+# Currency-converter
 This repo basically based on currency exchanger ,with help of this you can convert doller ,dhiram,euro,south and North Korean won ,russian rubel , british pound, and venezual currency with in second.
 Here if you want to know your entered ammount in foreign currency then you just have to follow instruction.
 # Instruction 
